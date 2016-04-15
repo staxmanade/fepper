@@ -1,4 +1,4 @@
-##Fepper
+![Fepper logo](Fepper-logo.png)
 
 #A frontend prototyper for the rapid prototyping of websites
 
